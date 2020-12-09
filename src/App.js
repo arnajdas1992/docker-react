@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Checking for build trigger
+          Checking for build trigger again
         </p>
         <a
           className="App-link"
